@@ -1,2 +1,2 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/a2408e76-b916-45c0-bf83-b09a1197cce4)
 
-![github-header-image](https://github.com/user-attachments/assets/a7d071c4-9823-48b2-aeb8-3058d342be2e)
