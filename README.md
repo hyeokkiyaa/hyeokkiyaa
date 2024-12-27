@@ -7,7 +7,8 @@
 <br/>
 
 <h2>👨‍🎓 Academic</h2> <br />
-🏫 <p style="font-family: Arial, sans-serif; font-size: 16px;">Computer Science Studnet, Handong Global University (2021.3 - )<br />
+<p style="font-family: Arial, sans-serif; font-size: 16px;">
+🏫 Computer Science Studnet, Handong Global University (2021.3 - )<br />
 📝 Intelligent Software Engineering Lab Studnet, Handong Global University (2024.12 - )<br />
 🦁 LikeLion HGU 13 (2024.12 - ) </p><br />
 
