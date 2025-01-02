@@ -13,5 +13,5 @@
 📝 Intelligent Software Engineering Lab Incubating Studnet, Handong Global University (2024.12 - )<br />
 🦁 LikeLion HGU 13 (2024.12 - ) </p><br />
 
-![hyeokkiyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![hyeokkiyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokkiyaa&show_icons=true&theme=radical)
 
