@@ -21,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;• Computer Science Student<br />
   &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Incubating Student (2024.12 - Present)<br />
   <br />
-  <b>🦁 LikeLion HGU 13th</b> (2024.12 - Present)<br />
+  <b>🦁 LikeLion HGU 13th</b> (2024.12 - 2025.08)<br />
   &nbsp;&nbsp;&nbsp;• Student Developer / Member<br />
   <br />
   <b>🔢 42 Gyeongsan</b> (2024.07 - 2024.12)<br />
