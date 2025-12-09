@@ -31,6 +31,9 @@
 
 <h2 align="left">🏆 Awards & Honors</h2>
 <p style="font-family: Arial, sans-serif; font-size: 16px;">
+  <b>🏅 Popularity Award (인기상)</b> - <i>2025 HGU Capstone Design Festival</i><br />
+  &nbsp;&nbsp;&nbsp;• Topic: <b>Mitigating the Hallucination Problem in Code-Generation LLMs</b><br />
+  <br />
   <b>🥇 Grand Prize (최우수상)</b> - <i>2025 SW Convergence Fair</i><br />
   &nbsp;&nbsp;&nbsp;• Hosted by HGU x SW-Centered University Society<br />
   &nbsp;&nbsp;&nbsp;• Project: <b>Vintan</b><br />
