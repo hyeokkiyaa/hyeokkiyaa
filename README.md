@@ -19,7 +19,8 @@
 <p style="font-family: Arial, sans-serif; font-size: 16px;">
   <b>🏫 Handong Global University</b> (2021.03 - Present)<br />
   &nbsp;&nbsp;&nbsp;• Computer Science Student<br />
-  &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Incubating Student (2024.12 - Present)<br />
+  &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Incubating Student (2024.12 - 2025.06)<br />
+  &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Capstone 1 Student (2025.07 - Present)<br />
   <br />
   <b>🏢 Handong Software Foundation (HSF)</b> (2024.12 - Present)<br />
   &nbsp;&nbsp;&nbsp;• Member of Handong Open Source Community<br />
@@ -68,6 +69,11 @@
   <li>
     <b>LikeLion HGU Internal Hackathon</b> (2024 Winter)<br />
     Developed <b>Zuum</b> (Web Service).
+  </li>
+  <br />
+  <li>
+    <b>LikeLion HGU Ideathon</b><br />
+    Proposed <b>Jiban-Salim</b>, an AI-based app idea for fair distribution of household chores.
   </li>
 </ul>
 
