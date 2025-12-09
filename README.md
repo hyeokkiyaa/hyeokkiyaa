@@ -1,17 +1,73 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&weight=900&size=35&pause=1000&color=F7541F&width=435&lines=Welcome+to+hyeokkiyaa" alt="Typing SVG" />
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&weight=900&size=35&pause=1000&color=F7541F&width=435&lines=Welcome+to+hyeokkiyaa)](https://git.io/typing-svg)
- 
-<h2>🧑‍💻Tech Stack</h2>
-<br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <br/>
 
-<h2>👨‍🎓 Academic</h2> <br />
+<h2 align="left">🧑‍💻 Tech Stack</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+</div>
+
+<br/>
+
+<h2 align="left">👨‍🎓 Academic</h2> 
 <p style="font-family: Arial, sans-serif; font-size: 16px;">
-🏫 Computer Science Studnet, Handong Global University (2021.3 - )<br />
-🔢 42 Gyeongsan (2024.7 - 2024.12(stoppd)) <br />
-📝 Intelligent Software Engineering Lab Incubating Studnet, Handong Global University (2024.12 - )<br />
-🦁 LikeLion HGU 13 (2024.12 - ) </p><br />
+  <b>🏫 Handong Global University</b> (2021.03 - Present)<br />
+  &nbsp;&nbsp;&nbsp;• Computer Science Student<br />
+  &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Incubating Student (2024.12 - Present)<br />
+  <br />
+  <b>🦁 LikeLion HGU 13th</b> (2024.12 - Present)<br />
+  &nbsp;&nbsp;&nbsp;• Student Developer / Member<br />
+  <br />
+  <b>🔢 42 Gyeongsan</b> (2024.07 - 2024.12)<br />
+  &nbsp;&nbsp;&nbsp;• Cadet (Program stopped)<br />
+</p>
 
-![hyeokkiyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokkiyaa&show_icons=true&theme=radical)
+<br/>
 
+<h2 align="left">🏆 Awards & Honors</h2>
+<p style="font-family: Arial, sans-serif; font-size: 16px;">
+  <b>🥇 Grand Prize (최우수상)</b> - <i>2025 SW Convergence Fair</i><br />
+  &nbsp;&nbsp;&nbsp;• Hosted by HGU x SW-Centered University Society<br />
+  &nbsp;&nbsp;&nbsp;• Project: <b>Vintan</b><br />
+  <br />
+  <b>🥈 Excellence Prize (우수상)</b> - <i>2025 SW Convergence Fair</i><br />
+  &nbsp;&nbsp;&nbsp;• Hosted by HGU x SW-Centered University Society<br />
+  &nbsp;&nbsp;&nbsp;• Project: <b>Zuum</b>
+</p>
+
+<br/>
+
+<h2 align="left">🚀 Competitions & Hackathons</h2>
+<ul style="font-family: Arial, sans-serif; font-size: 16px;">
+  <li>
+    <b>Upstage n8n AI Agent Competition</b> (2025.2)<br />
+    Developed an AI Agent for <i>Automated Python Docker Environment Generation</i> using n8n.
+  </li>
+  <br />
+  <li>
+    <b>Dacon AI Text Classification Competition</b> (2025.2)<br />
+    Participated in modeling and training to distinguish between Human-written and AI-generated texts.
+  </li>
+  <br />
+  <li>
+    <b>LikeLion Central Hackathon</b> (2025 Summer)<br />
+    Developed <b>Vintan</b> (Web Service).
+  </li>
+  <br />
+  <li>
+    <b>LikeLion HGU Internal Hackathon</b> (2024 Winter)<br />
+    Developed <b>Zuum</b> (Web Service).
+  </li>
+</ul>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" alt="Stats" />
+</div>
