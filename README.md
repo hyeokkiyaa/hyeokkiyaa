@@ -25,7 +25,6 @@
   &nbsp;&nbsp;&nbsp;• Student Developer / Member<br />
   <br />
   <b>🔢 42 Gyeongsan</b> (2024.07 - 2024.12)<br />
-  &nbsp;&nbsp;&nbsp;• Cadet (Program stopped)<br />
 </p>
 
 <br/>
