@@ -21,6 +21,7 @@
   &nbsp;&nbsp;&nbsp;• Computer Science Student<br />
   &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Incubating Student (2024.12 - 2025.06)<br />
   &nbsp;&nbsp;&nbsp;• Intelligent Software Engineering Lab (ISEL) - Capstone 1 Student (2025.07 - Present)<br />
+  <a href="http://isel.handong.edu">http://isel.handong.edu/</a> <br />
   <br />
   <b>🏢 Handong Software Foundation (HSF)</b> (2024.12 - Present)<br />
   &nbsp;&nbsp;&nbsp;• Member of Handong Open Source Community<br />
