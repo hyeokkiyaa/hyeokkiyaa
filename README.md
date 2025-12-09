@@ -45,12 +45,12 @@
 <h2 align="left">🚀 Competitions & Hackathons</h2>
 <ul style="font-family: Arial, sans-serif; font-size: 16px;">
   <li>
-    <b>Upstage n8n AI Agent Competition</b> (2025.2)<br />
+    <b>Upstage n8n AI Agent Competition</b> (25-2)<br />
     Developed an AI Agent for <i>Automated Python Docker Environment Generation</i> using n8n.
   </li>
   <br />
   <li>
-    <b>Dacon AI Text Classification Competition</b> (2025.2)<br />
+    <b>Dacon AI Text Classification Competition</b> (25-2)<br />
     Participated in modeling and training to distinguish between Human-written and AI-generated texts.
   </li>
   <br />
