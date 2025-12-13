@@ -43,7 +43,6 @@
   &nbsp;&nbsp;&nbsp;• Hosted by HGU x SW-Centered University Society<br />
   &nbsp;&nbsp;&nbsp;• Project: <b>Vintan</b><br />
   <br />
-  <br />
   <b>🥇 Grand Prize (최우수상)</b> - <i>2025-2 AI Agent Upstage</i><br />
   &nbsp;&nbsp;&nbsp;• Hosted by Upstage<br />
   &nbsp;&nbsp;&nbsp;• Project: <b>Automated Python Docker Environment Generation</b><br />
