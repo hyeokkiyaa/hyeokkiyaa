@@ -56,6 +56,9 @@
 
 <h2 align="left">🏆 Awards & Honors</h2>
 <p>
+  <b>🏅 Best Paper Award (우수상)</b> — <i>KCSE 2026</i><br/>
+  &nbsp;&nbsp;&nbsp;• Paper: <b>A Survey on Leveraging Code Graphs for LLM-based Automated Program Repair</b><br/>
+  <br/>
   <b>🏅 Popularity Award (인기상)</b> — <i>2025 HGU Capstone Design Festival</i><br/>
   &nbsp;&nbsp;&nbsp;• Topic: <b>Mitigating the Hallucination Problem in Code-Generation LLMs</b><br/>
   <br/>
