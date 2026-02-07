@@ -37,11 +37,11 @@
 <p>
   <b>📝 A Survey on Leveraging Code Graphs for LLM-based Automated Program Repair</b><br/>
   &nbsp;&nbsp;&nbsp;Shinyeob Kang, Jikwang Lee, <b>Hyeokmin Kwon</b>, Jaechang Nam<br/>
-  &nbsp;&nbsp;&nbsp;📖 <a href="https://kcse.sigsoft.or.kr/2026/files/KCSE-2026-proceedings.pdf">KCSE 2026 Proceedings</a> (p. 139) — Full Paper 🏅 <b>Best Paper Award (우수상)</b><br/>
+  &nbsp;&nbsp;&nbsp;📖 <a href="https://kcse.sigsoft.or.kr/2026/files/KCSE-2026-proceedings.pdf">KCSE 2026 Proceedings</a> (p. 170) — Full Paper 🏅 <b>Best Paper Award (우수상)</b><br/>
   <br/>
   <b>📝 EnvAgent: Automated Conda Environment Building System for AI/ML Projects</b><br/>
   &nbsp;&nbsp;&nbsp;<b>Hyeokmin Kwon</b>, Jikwang Lee, Shinyeob Kang, Yongbean Chung, Jaechang Nam<br/>
-  &nbsp;&nbsp;&nbsp;📖 KCSE 2026 — Short Paper
+  &nbsp;&nbsp;&nbsp;📖 <a href="https://kcse.sigsoft.or.kr/2026/files/KCSE-2026-proceedings.pdf">KCSE 2026 Proceedings</a> (p. 198) — Short Paper
 </p>
 
 <br/>
