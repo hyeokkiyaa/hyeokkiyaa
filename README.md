@@ -6,7 +6,6 @@
     alt="Typing SVG"
   />
 </a>
-<a href="https://docs.google.com/document/d/1laAHE-K_JER_HAom0O3A-RbBpJkBxa5XXQIIqbvAThk/edit?tab=t.0"> click</a>
 <br/>
 
 Computer Science undergraduate interested in
@@ -248,67 +247,5 @@ Jan. 2020 – Dec. 2020
 ### Building reliable AI agents and intelligent software systems.
 
 </div>
-
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>아두이노 신호등 제어</title>
-  <style>
-	body { min-height:100vh; display:flex; justify-content:center; align-items:center;
-       	background:#f3f4f6; font-family:Arial, sans-serif; }
-	.container { width:360px; padding:32px; background:white; border-radius:20px;
-             	text-align:center; box-shadow:0 10px 30px rgba(0,0,0,.12); }
-	button { width:100%; padding:16px; margin:7px 0; border:0; border-radius:12px;
-         	font-size:18px; font-weight:bold; cursor:pointer; }
-	button:disabled { opacity:.45; cursor:not-allowed; }
-	.connect { background:#222; color:white; }
-	.red { background:#ef4444; color:white; }
-	.yellow { background:#facc15; color:#222; }
-	.green { background:#22c55e; color:white; }
-	.off { background:#d1d5db; color:#222; }
-  </style>
-</head>
-
-<body>
-  <div class="container">
-	<h1>🚦 아두이노 신호등</h1>
-	<p id="status">아두이노를 연결해 주세요.</p>
-	<button class="connect" id="connectButton">아두이노 연결</button>
-	<button class="red control" disabled onclick="sendCommand('R')">빨간불</button>
-	<button class="yellow control" disabled onclick="sendCommand('Y')">노란불</button>
-	<button class="green control" disabled onclick="sendCommand('G')">초록불</button>
-	<button class="off control" disabled onclick="sendCommand('O')">모두 끄기</button>
-  </div>
-  <script>
-	let port, writer;
-	const connectButton = document.getElementById('connectButton');
-	const statusText = document.getElementById('status');
-	const controlButtons = document.querySelectorAll('.control');
-	connectButton.addEventListener('click', connectArduino);
-	async function connectArduino() {
-  	if (!('serial' in navigator)) { alert('Chrome 또는 Edge를 사용해 주세요.'); return; }
-  	port = await navigator.serial.requestPort();
-  	await port.open({ baudRate: 9600 });
-  	writer = port.writable.getWriter();
-  	statusText.textContent = '아두이노 연결 완료';
-  	connectButton.disabled = true;
-  	controlButtons.forEach(button => button.disabled = false);
-	}
-
-	async function sendCommand(command) {
-  	if (!writer) { alert('먼저 아두이노를 연결해 주세요.'); return; }
-  	const encoder = new TextEncoder();
-  	await writer.write(encoder.encode(command));
-  	if (command === 'R') statusText.textContent = '현재 상태: 빨간불';
-  	else if (command === 'Y') statusText.textContent = '현재 상태: 노란불';
-  	else if (command === 'G') statusText.textContent = '현재 상태: 초록불';
-  	else statusText.textContent = '현재 상태: 모두 꺼짐';
-	}
-  </script>
-</body>
-</html>
 
 
