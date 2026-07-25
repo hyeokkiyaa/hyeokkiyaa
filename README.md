@@ -6,7 +6,7 @@
     alt="Typing SVG"
   />
 </a>
-
+<a href="https://docs.google.com/document/d/1laAHE-K_JER_HAom0O3A-RbBpJkBxa5XXQIIqbvAThk/edit?tab=t.0"> click</a>
 <br/>
 
 Computer Science undergraduate interested in
