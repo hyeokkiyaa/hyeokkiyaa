@@ -16,10 +16,14 @@ Computer Science undergraduate interested in
 <a href="mailto:hyeokkiyaa@gmail.com">
   <img src="https://img.shields.io/badge/Email-hyeokkiyaa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/hyeokkiyaa">
   <img src="https://img.shields.io/badge/GitHub-hyeokkiyaa-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://hyeokkiyaa.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-hyeokkiyaa.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
 </div>
 
 ---
